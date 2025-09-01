@@ -56,9 +56,10 @@ __текст__
 <details>
 <summary>Пример</summary>
 ````md
-```python
-def hi():
-    print("Привет!")
+```md
+Пример
+блока
+кода
 ```
 ````
 </details>
